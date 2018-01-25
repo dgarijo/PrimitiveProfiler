@@ -10,7 +10,7 @@ How to run the script:
 
 * Run the image mounting a volume and copy the script on it
 
-`docker run -it -v "path_to_volume":/home registry.datadrivendiscovery.org/jpl/docker_images/complete:ubuntu-xenial-python36-v2018.1.5
+`docker run -it -v "path_to_volume":/home registry.datadrivendiscovery.org/jpl/docker_images/complete:ubuntu-xenial-python36-v2018.1.5`
 
 * Run the script (after accessing the "home" folder)
 
